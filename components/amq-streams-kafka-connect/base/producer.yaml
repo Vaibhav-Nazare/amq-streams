@@ -58,7 +58,7 @@ spec:
 
                   fieldPath: metadata.namespace
 
-          image: quay.io/lordofthejars/kafka-spam-messages:1.0.0-SNAPSHOT
+          image: registry.redhat.io/amq-streams/kafka-36-rhel8:2.6.0-4
 
           imagePullPolicy: Always
 
