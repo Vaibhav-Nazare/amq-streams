@@ -6,3 +6,4 @@ namespace: amq-streams
 
 resources:
   - user.yaml
+  - new-user.yaml
